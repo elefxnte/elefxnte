@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elefante0&theme=dark&hide_border=true&layout=compact">
+<!--<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elefante0&theme=dark&hide_border=true&layout=compact">-->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Elefante0&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 
 </div>
