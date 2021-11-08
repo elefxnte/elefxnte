@@ -6,19 +6,11 @@
 
 ## Languages
 <div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<!--<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elefante0&theme=dark&hide_border=true&layout=compact">-->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Elefante0&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-
-</div>
-
-## You Can Contact Me
-
-<div align="center">
-<img src="https://img.shields.io/badge/elefante@elefantedev.tech%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 </div>
 
@@ -27,5 +19,18 @@
    <a href="https://discord.com/users/423374884245078016" target"blank_">
    <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/elefante0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=elefante0&label=Profile%20views&color=0e75b6&style=flat" alt="elefante0" /> </p> 
-<!--<a href="https://discord.gg/FQcZrN6emZ" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>-->
+   <img src="https://img.shields.io/badge/elefante@elefantedev.tech%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+## Github Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Elefante0&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elefante0&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />-->
+<img src="https://github-profile-trophy.vercel.app/?username=Elefante0&theme=nord" width="%100" height="150px" alt="stats" />
+
+<!--
+<details align="center">
+<summary style="font-weight: bold; font-size: 18px">Tab</summary>
+
+</details>
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elefante0&label=Profile%20views&color=0e75b6&style=flat" alt="elefante0" /> </p> 
