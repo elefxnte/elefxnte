@@ -19,6 +19,7 @@
    <a href="https://discord.com/users/423374884245078016" target"blank_">
    <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/elefante0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="mailto:elefante@elefantedev.tech" target"blank_">
    <img src="https://img.shields.io/badge/elefante@elefantedev.tech%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
     
 ## Github Stats
