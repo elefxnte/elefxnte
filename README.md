@@ -36,6 +36,6 @@
 <summary style="font-weight: bold; font-size: 18px">Tab</summary>
 
 </details>
--->
 
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elefante0&label=Profile%20views&color=0e75b6&style=flat" alt="elefante0" /> </p> 
