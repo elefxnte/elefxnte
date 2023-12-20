@@ -1,7 +1,7 @@
 <!--
 <h1 align="center">Elefante</h1>
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elefante0&label=Profile%20views&color=0e75b6&style=flat" alt="elefante0" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elefxnte&label=Profile%20views&color=0e75b6&style=flat" alt="elefante0" /> </p>  
 <div align="center">
     <a href="https://discord.com/users/423374884245078016" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/423374884245078016"></a>
 </div>
